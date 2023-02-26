@@ -1,2 +1,2 @@
-pub mod array;
-pub mod types;
+pub mod array; // main file
+pub mod types; // array types
